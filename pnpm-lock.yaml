@@ -147,6 +147,9 @@ importers:
 
   web/consumer:
     dependencies:
+      '@cropchain/ui-web':
+        specifier: workspace:*
+        version: link:../../packages/ui-web
       next:
         specifier: 15.5.5
         version: 15.5.5(babel-plugin-react-compiler@1.0.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -187,6 +190,9 @@ importers:
 
   web/distributor:
     dependencies:
+      '@cropchain/ui-web':
+        specifier: workspace:*
+        version: link:../../packages/ui-web
       next:
         specifier: 15.5.5
         version: 15.5.5(babel-plugin-react-compiler@1.0.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -227,6 +233,9 @@ importers:
 
   web/retailer:
     dependencies:
+      '@cropchain/ui-web':
+        specifier: workspace:*
+        version: link:../../packages/ui-web
       next:
         specifier: 15.5.5
         version: 15.5.5(babel-plugin-react-compiler@1.0.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
