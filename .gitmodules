@@ -1,0 +1,18 @@
+[submodule "web/retailer"]
+	path = web/retailer
+	url = https://github.com/SaranSrini03/retailer-cropchain.git
+[submodule "web/consumer"]
+	path = web/consumer
+	url = https://github.com/SaranSrini03/consumer-cropchain.git
+[submodule "web/distributor"]
+	path = web/distributor
+	url = https://github.com/SaranSrini03/distrubutor-cropchain.git
+[submodule "apps/farmer"]
+	path = apps/farmer
+	url = https://github.com/naveen-2111-dev/Farmer-CropChain.git
+[submodule "web3"]
+	path = web3
+	url = https://github.com/naveen-2111-dev/CropChain.git
+[submodule "packages/ui-web"]
+	path = packages/ui-web
+	url = https://github.com/naveen-2111-dev/cropchain-ui.git

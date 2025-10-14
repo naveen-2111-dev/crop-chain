@@ -1,6 +1,5 @@
-nodeLinker: hoisted
-
 packages:
   - "apps/*"
   - "packages/*"
   - "web/*"
+  - "web3/*"
